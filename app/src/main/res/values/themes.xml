@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IchalkaranjiRailway" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/railway_blue</item>
+        <item name="colorPrimaryDark">@color/railway_blue_dark</item>
+        <item name="colorAccent">@color/railway_blue</item>
+        <item name="android:statusBarColor">@color/railway_blue</item>
+        <item name="android:navigationBarColor">@color/railway_blue_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+        <item name="android:windowBackground">@color/off_white</item>
+    </style>
+
+    <!-- Splash theme using AndroidX SplashScreen API (Android 12+ shows this natively;
+         older versions fall back to windowBackground below). -->
+    <style name="Theme.IchalkaranjiRailway.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/railway_blue</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.IchalkaranjiRailway</item>
+    </style>
+</resources>

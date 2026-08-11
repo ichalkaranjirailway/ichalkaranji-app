@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">इचलकरंजी रेल्वे</string>
+    <string name="splash_title">इचलकरंजी रेल्वे</string>
+    <string name="splash_subtitle">Hatkanangale–Ichalkaranji Railway Project</string>
+
+    <string name="exit_confirm_title">App मधून बाहेर पडायचे आहे का?</string>
+    <string name="exit_confirm_yes">होय</string>
+    <string name="exit_confirm_no">नाही</string>
+
+    <string name="offline_message">इंटरनेट कनेक्शन उपलब्ध नाही. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="offline_retry">पुन्हा प्रयत्न करा</string>
+
+    <string name="load_error_message">पेज लोड होऊ शकले नाही. कृपया पुन्हा प्रयत्न करा.</string>
+
+    <string name="site_url">https://ichalkaranjirailway.github.io/htk-ich/</string>
+    <string name="site_host">ichalkaranjirailway.github.io</string>
+
+    <string name="share_chooser_title">शेअर करा</string>
+    <string name="menu_share">शेअर करा</string>
+    <string name="menu_reload">पुन्हा लोड करा</string>
+
+    <string name="downloading_file">डाउनलोड सुरू आहे…</string>
+    <string name="no_app_found">हे उघडण्यासाठी योग्य अ‍ॅप सापडला नाही.</string>
+</resources>
